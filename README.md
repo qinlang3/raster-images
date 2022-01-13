@@ -1,7 +1,7 @@
 # raster-images
 
-mkdir build
-cd build
-cmake ..
-make
-./raster
+## Compilation
+
+    mkdir build
+    cd build
+    cmake ..
